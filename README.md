@@ -1,2 +1,2 @@
-# Grouproject
+# GroupProject
 Gruppiprojekt
