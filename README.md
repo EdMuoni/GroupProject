@@ -1,6 +1,6 @@
 # Tic-Tac-Toe - Python Game
 
-Gruppitöö rühma liikmed: Edgar Muoni
+Gruppitöö rühma liikmed: Anneli Sepp, Edgar Muoni
 
 ## Ülevaade
 
