@@ -1,4 +1,6 @@
-# Trips-Trall-Trull - Python Game
+# Tic-Tac-Toe - Python Game
+
+Gruppitöö rühma liikmed: Edgar Muoni
 
 ## Ülevaade
 
@@ -6,7 +8,7 @@
 
 ## Funktsioonid
 
-- **Kaks mängijat**: Mängijad saavad vaheldumisi mängida ja oma sümbolit sisestada.
+- **Kaks mängijat**: Mängija mängib arvuti vastu ja saab oma sümbolit sisestada.
 - **Mängu lõpp**: Mäng lõpeb, kui üks mängija on võitnud või kui kõik ruudud on täidetud (viik).
 - **Kasutajaliides**: Mäng näitab mängulaua olekust jooksvalt muutusi ja annab teavet mängu seisundi kohta.
 - **Mängu kordamine**: Mängija saab otsustada, kas alustada uut mängu pärast praeguse lõppemist.
